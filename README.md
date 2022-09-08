@@ -1,5 +1,5 @@
 # js13k
-This is my submission to the competition js13kGames 2022.
+This is my submission to the competition js13kGames 2022. As a zip file it occupies only 4.7kb
 
 It was written from scratch in 10 days.
 
